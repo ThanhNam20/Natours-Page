@@ -1,1 +1,1 @@
-This is a tourist page using SASS
+This is a tourist page using SASS and Float
