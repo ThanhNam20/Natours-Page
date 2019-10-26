@@ -1,5 +1,7 @@
+@import "../abstracts/variables.scss";
+
 .heading-primary {
-    color: $color-white;
+    color: #fff;
     text-transform: uppercase;
     backface-visibility: hidden;
 
